@@ -4,7 +4,7 @@ incluem:
 BubbleSort  
 InsertSort  
 MergeSort  
-RadixSort 
-QuickSort 
-HeapSort  
+RadixSort   
+QuickSort   
+HeapSort   
 
